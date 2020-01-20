@@ -8,7 +8,7 @@ If no layer stack is specified, then the script simply computes the Fresnel coef
 
 The different plotting options are described in the following sections, where *Rp* and *Tp* are the reflectance and transmittance for the parallel polarization (TM), and *Rs* and *Ts* are the reflectance and transmittance for the perpendicular polarization (TE). 
 
-Note that this python script requires the `numpy`, `matplotlib` and `scipy` libraries. For the 2D computations below, the script is parallelized and uses all available cores. 
+Note that this python script requires the `numpy`, `matplotlib` and `scipy` libraries. For the 2D computations below, the script is parallelized and uses all available cores (successfully tested on Debian 10 and Ubuntu 18.04). 
 
 ## 1D - Scattered power versus incidence angles at a single wavelength
 
