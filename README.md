@@ -18,7 +18,7 @@ To obtain the Fresnel coefficients for waves scattered at an interface between v
 # layer parameters
 ER = []		# relative permittivity of each layer
 MR = []		# relative permeability of each layer
-L  = [] 		# thickness of each layer in m
+L  = [] 	# thickness of each layer in m
 
 # parameters of incidence medium
 er_1 = 1
